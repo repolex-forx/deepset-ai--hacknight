@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/deepset-ai/hacknight/commit/f4f62a2ecc9e37fc583e44409b42485b75c1b449",
       "git:hexsha": "f4f62a2ecc9e37fc583e44409b42485b75c1b449",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
