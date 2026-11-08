@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "deepset-ai",
+  "repo": "hacknight",
+  "versions": [
+    {
+      "commit": "f4f62a2ecc9e37fc583e44409b42485b75c1b449",
+      "parsed_at": "2026-11-08T02:21:42.429445+00:00",
+      "filetree": "filetree/f4f62a2ecc9e37fc583e44409b42485b75c1b449.nq.gz",
+      "blobs": [
+        "blob/64a9896cd3f02e07d0c12a4f1edd2d9fba4af9f3.nq.gz",
+        "blob/bc51aaf614038fdb042dc27a5622d59161cb9648.nq.gz",
+        "blob/23da26f7dbe359750315439afb4fe74c2e908667.nq.gz",
+        "blob/3d8637192ba0442d34b5e2181c1a921ec4c78bc8.nq.gz",
+        "blob/6d322b9ea8351d41bdf00a9cc7267a9481fa43d9.nq.gz",
+        "blob/6d8de7ce82f90c711221d7c151e2d1013c78a310.nq.gz",
+        "blob/5525668e1b687502a789c45814173addd98b41e2.nq.gz",
+        "blob/eb3fa9c1cbae0f056362c572dafb124902b7952b.nq.gz",
+        "blob/e63c139fee92f1a7b59e0a28df64002f3991adcc.nq.gz",
+        "blob/3c5621dca282916cf90991e9e781184eb5511690.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
