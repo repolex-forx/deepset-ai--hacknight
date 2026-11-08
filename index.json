@@ -1,0 +1,11 @@
+{
+  "org": "deepset-ai",
+  "repo": "hacknight",
+  "versions": [
+    {
+      "commit": "f4f62a2ecc9e37fc583e44409b42485b75c1b449",
+      "tag": "",
+      "parsed_at": "2026-11-08T02:23:40.351876+00:00"
+    }
+  ]
+}
